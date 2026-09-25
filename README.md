@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=DuoLab&fontAlign=50&fontAlignY=38&desc=Soluções%20Digitais&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:071A38,100:7DB5FF&text=DuoLab&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Soluções%20Digitais&descAlign=50&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 # DuoLab | Soluções Digitais
 
