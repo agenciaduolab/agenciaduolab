@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**agenciaduolab/agenciaduolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=DuoLab&fontAlign=50&fontAlignY=38&desc=Soluções%20Digitais&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+# DuoLab | Soluções Digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Transformando ideias em experiências digitais.
+
+Desenvolvemos soluções digitais modernas para empresas que querem  
+fortalecer sua presença e crescer no ambiente digital.
+
+<br>
+
+## 💻 O que fazemos
+
+🌐 Desenvolvimento de Sites  
+📱 Sites Responsivos  
+🎨 Interfaces Modernas  
+⚡ Landing Pages  
+🛠️ Manutenção e Suporte  
+🚀 Publicação de Projetos
+
+<br>
+
+## 🚀 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode" />
+
+<br><br>
+
+## 📂 Nossos Projetos
+
+Aqui você encontrará projetos desenvolvidos pela **DuoLab**,  
+incluindo sites institucionais, landing pages e soluções digitais.
+
+<br>
+
+## 📫 Entre em contato
+
+📧 comercialduolab@gmail.com
+
+<br>
+
+---
+
+### DuoLab
+
+**Tecnologia • Design • Desenvolvimento**
+
+Criando soluções digitais para transformar ideias em realidade.
+
+</div>
